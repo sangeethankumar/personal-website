@@ -9,3 +9,4 @@ version = "0.1.0"
 
 [dependencies]
 hugo = ">=0.152.2,<0.153"
+jupyter = ">=1.1.1,<2"
