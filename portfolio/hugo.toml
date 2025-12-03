@@ -6,3 +6,5 @@ title = 'Sangeetha Nandakumar'
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+
+publishDir = "docs"
